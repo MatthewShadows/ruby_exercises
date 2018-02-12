@@ -7,5 +7,5 @@ until numero.to_i == number
       puts 'You Win'
     else
      puts 'Try Again'
-end
+ end
 end
